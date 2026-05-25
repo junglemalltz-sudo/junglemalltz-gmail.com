@@ -1,0 +1,6 @@
+{
+  "name": "Jungle Mall",
+  "description": "The premier hybrid online-offline shopping marketplace in Tanzania, featuring local crafts, electronics, fashion, and safari essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
